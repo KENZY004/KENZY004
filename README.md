@@ -23,9 +23,19 @@
 - Train status, PNR checking UI, and route visualization
 - Clean, responsive interface with dark mode support
 
-**Tech:** HTML, CSS, JavaScript, PHP  
+**Tech:** HTML, CSS, JavaScript, PHP 
+🔗 Live: https://track-wise-train-scheduling.vercel.app/ 
 📦 Repo: https://github.com/KENZY004/Project-Trackwise-Train-Scheduling-website-
 
+---
+
+### 🧪 COVID-19 Test Scheduler — DSA-Focused Web Application
+- Built during summer training to apply data structures in a real-world scenario
+- Implements priority queue (Min-Heap) and hash map logic for patient scheduling
+- Priority-based queue management with interactive booking and dashboard UI
+
+**Tech:** HTML, CSS, JavaScript (ES6+)  
+📦 Repo: https://github.com/KENZY004/Covid-Test-Scheduler
 
 ---
 
