@@ -29,7 +29,7 @@
 - Clean, responsive interface with dark mode support
 
 **Tech:** HTML, CSS, JavaScript, PHP  
-🚀 **Deployment:** Vercel 
+🚀 **Deployment:** Vercel  
 🔗 **Live:** https://track-wise-train-scheduling.vercel.app/  
 📦 **Repo:** https://github.com/KENZY004/Project-Trackwise-Train-Scheduling-website-
 
