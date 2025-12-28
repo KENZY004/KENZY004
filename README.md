@@ -34,10 +34,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (add email)
 
-## 📊 GitHub Activity
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KENZY004&layout=compact)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kenznajeeb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KENZY004)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenznajeeb@gmail.com)
 
