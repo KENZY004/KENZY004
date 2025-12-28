@@ -23,7 +23,7 @@
 
 ---
 
-### 🚂 [TrackWise — Train Information & Tracking Interface](https://github.com/KENZY004/Project-Trackwise-Train-Scheduling-website-)  
+### 🚂 [TrackWise — Train Scheduling & Forecasting Website](https://github.com/KENZY004/Project-Trackwise-Train-Scheduling-website-)  
 - Frontend-focused web application built as a college project
 - Train status checking, PNR lookup UI, and route visualization
 - Clean, responsive interface with dark mode support
