@@ -7,7 +7,7 @@
 
 ## ⭐ Featured Projects
 
-### 🧠 EduBoard — Real-time Collaborative Whiteboard Platform
+### 🧠 [EduBoard — Real-time Collaborative Whiteboard Platform](https://github.com/KENZY004/eduboard)  
 - Full-stack, real-time collaborative whiteboard built for educational use  
 - Live teacher–student interaction with real-time sync using Socket.IO  
 - Role-based access control (Student / Teacher / Admin) with approval workflow  
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚂 TrackWise — Train Information & Tracking Interface
+### 🚂 [TrackWise — Train Information & Tracking Interface](https://github.com/KENZY004/Project-Trackwise-Train-Scheduling-website-)  
 - Frontend-focused web application built as a college project
 - Train status checking, PNR lookup UI, and route visualization
 - Clean, responsive interface with dark mode support
@@ -35,7 +35,7 @@
 
 ---
 
-### 🧪 COVID-19 Test Scheduler — DSA-Focused Web Application
+### 🧪 [COVID-19 Test Scheduler — DSA-Focused Web Application](https://github.com/KENZY004/Covid-Test-Scheduler)  
 - Built during summer training to apply data structures in a real-world scenario
 - Implements priority queue (Min-Heap) and hash map logic for patient scheduling
 - Priority-based queue management with interactive booking and dashboard UI
