@@ -18,10 +18,14 @@
 
 ---
 
-### 🔐 Second Project
-- Brief description
-- Key feature
-- Tech used
+### 🚂 TrackWise — Train Information & Tracking Interface
+- Frontend-focused web application built as a college project
+- Train status, PNR checking UI, and route visualization
+- Clean, responsive interface with dark mode support
+
+**Tech:** HTML, CSS, JavaScript, PHP  
+📦 Repo: https://github.com/KENZY004/Project-Trackwise-Train-Scheduling-website-
+
 
 ---
 
