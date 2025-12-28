@@ -20,12 +20,12 @@
 
 ### 🚂 TrackWise — Train Information & Tracking Interface
 - Frontend-focused web application built as a college project
-- Train status, PNR checking UI, and route visualization
+- Train status checking, PNR lookup UI, and route visualization
 - Clean, responsive interface with dark mode support
 
-**Tech:** HTML, CSS, JavaScript, PHP 
-🔗 Live: https://track-wise-train-scheduling.vercel.app/
-📦 Repo: https://github.com/KENZY004/Project-Trackwise-Train-Scheduling-website-
+**Tech:** HTML, CSS, JavaScript, PHP  
+🔗 **Live:** https://track-wise-train-scheduling.vercel.app/  
+📦 **Repo:** https://github.com/KENZY004/Project-Trackwise-Train-Scheduling-website-
 
 ---
 
