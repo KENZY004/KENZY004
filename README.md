@@ -7,14 +7,19 @@
 
 ## ⭐ Featured Projects
 
-### 🧠 EduBoard — Real-time Collaborative Whiteboard
-- Live teacher–student collaboration using Socket.IO
-- Real-time drawing sync with low latency
-- Role-based access and session handling
-- Deployed: Frontend (Vercel) | Backend (Render)
+### 🧠 EduBoard — Real-time Collaborative Whiteboard Platform
+- Full-stack, real-time collaborative whiteboard built for educational use  
+- Live teacher–student interaction with real-time sync using Socket.IO  
+- Role-based access control (Student / Teacher / Admin) with approval workflow  
+- Secure authentication with JWT and email verification handled via Resend  
+- Image uploads stored securely using Cloudinary  
+- Frontend and backend hosted on cloud platforms  
 
-🔗 Live: https://eduboard01.vercel.app  
-📦 Repo: https://github.com/KENZY004/eduboard
+**Tech:** React, Node.js, Express, Socket.IO, MongoDB, Cloudinary, Resend, Tailwind CSS  
+🚀 **Deployment:** Vercel (Frontend), Render (Backend)  
+🔗 **Live:** https://eduboard01.vercel.app  
+📦 **Repo:** https://github.com/KENZY004/eduboard  
+
 
 ---
 
