@@ -35,7 +35,7 @@
 
 ---
 
-### 🧪 [COVID-19 Test Scheduler — DSA-Focused Web Application](https://github.com/KENZY004/Covid-Test-Scheduler)  
+### 🧪 [Health Scheduler — Priority-based Appointment System (DSA Project)](https://github.com/KENZY004/Covid-Test-Scheduler)  
 - Built during summer training to apply data structures in a real-world scenario
 - Implements priority queue (Min-Heap) and hash map logic for patient scheduling
 - Priority-based queue management with interactive booking and dashboard UI
