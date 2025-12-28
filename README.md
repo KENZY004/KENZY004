@@ -38,4 +38,5 @@
 - Email: (add email)
 
 ## 📊 GitHub Stats
-![Kenzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KENZY004&show_icons=true&theme=tokyonight)
+![Kenzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KENZY004&show_icons=true&theme=tokyonight&hide_border=true)
+
