@@ -1,16 +1,17 @@
 # Hi 👋, I'm Minha Kenzy
 
-🎓 B.Tech CSE Student | 💻 Full Stack Developer  
-🚀 Interested in real-time & scalable web applications
+🎓 B.Tech CSE Student at LPU  
+💻 Full Stack Developer | Real-time Web Applications  
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 🧠 EduBoard — Real-time Collaborative Whiteboard
-- Teacher–student live collaboration using Socket.IO  
-- Real-time drawing sync with minimal latency  
-- Frontend deployed on Vercel, backend on Render  
+- Live teacher–student collaboration using Socket.IO
+- Real-time drawing sync with low latency
+- Role-based access and session handling
+- Deployed: Frontend (Vercel) | Backend (Render)
 
 🔗 Live: https://eduboard01.vercel.app  
 📦 Repo: https://github.com/KENZY004/eduboard
@@ -35,3 +36,6 @@
 ## 📫 Connect With Me
 - LinkedIn: (add link)
 - Email: (add email)
+
+## 📊 GitHub Stats
+![Kenzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KENZY004&show_icons=true&theme=tokyonight)
