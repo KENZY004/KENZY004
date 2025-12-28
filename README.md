@@ -46,10 +46,13 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** JavaScript, Java, C++, C  
+
+**Languages:** JavaScript, Java, C++, C, PHP  
 **Frontend:** React, Tailwind CSS, HTML, CSS  
-**Backend:** Node.js, Express, MongoDB, Socket.IO  
-**Tools:** Git, GitHub, VS Code, Postman
+**Backend:** Node.js, Express, Socket.IO  
+**Databases:** MongoDB  
+**Cloud & Services:** Cloudinary, Resend  
+**Tools:** Git, GitHub, VS Code
 
 ---
 
