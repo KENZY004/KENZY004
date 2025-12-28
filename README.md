@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Minha Kenzy
 
-<!--
-**KENZY004/KENZY004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Full Stack Developer  
+🚀 Interested in real-time & scalable web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Featured Projects
+
+### 🧠 EduBoard — Real-time Collaborative Whiteboard
+- Teacher–student live collaboration using Socket.IO  
+- Real-time drawing sync with minimal latency  
+- Frontend deployed on Vercel, backend on Render  
+
+🔗 Live: https://eduboard01.vercel.app  
+📦 Repo: https://github.com/KENZY004/eduboard
+
+---
+
+### 🔐 Second Project
+- Brief description
+- Key feature
+- Tech used
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** JavaScript, Java, C++, C  
+**Frontend:** React, Tailwind CSS, HTML, CSS  
+**Backend:** Node.js, Express, MongoDB, Socket.IO  
+**Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- Email: (add email)
