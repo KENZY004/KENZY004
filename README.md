@@ -37,6 +37,7 @@
 - LinkedIn: (add link)
 - Email: (add email)
 
-## 📊 GitHub Stats
-![Kenzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KENZY004&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Activity
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KENZY004&layout=compact)
+
 
