@@ -23,9 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00b37e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenzy004) [![GitHub](https://img.shields.io/badge/GitHub-0d2818?style=for-the-badge&logo=github&logoColor=00FFB3)](https://github.com/KENZY004) [![Email](https://img.shields.io/badge/Email-00b37e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com) [![EduBoard](https://img.shields.io/badge/Live%20Project-0d2818?style=for-the-badge&logo=vercel&logoColor=00FFB3)](https://eduboard01.vercel.app)
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=KENZY004&style=flat-square&color=00b37e&label=PROFILE+VIEWS) &nbsp;&nbsp; ![Followers](https://img.shields.io/github/followers/KENZY004?style=flat-square&color=00FFB3&label=FOLLOWERS) &nbsp;&nbsp; ![Stars](https://img.shields.io/github/stars/KENZY004?style=flat-square&color=00b37e&label=TOTAL+STARS)
+<br/>
 
 </div>
 
